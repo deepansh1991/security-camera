@@ -3,7 +3,7 @@ from gpiozero import MotionSensor
 import picamera
 from time import sleep
 
-#Import smtplib for the actual sending function
+#Import smtplib for the sending function 
 import smtplib
  
 # Here are the email package modules we'll need
